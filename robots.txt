@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nicolasarti.github.io/redrosestrippoker/sitemap.xml
